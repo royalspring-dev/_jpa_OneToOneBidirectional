@@ -1,0 +1,12 @@
+.______        ______   ____    ____  ___       __              _______..______   .______       __  .__   __.   _______
+|   _  \      /  __  \  \   \  /   / /   \     |  |            /       ||   _  \  |   _  \     |  | |  \ |  |  /  _____|
+|  |_)  |    |  |  |  |  \   \/   / /  ^  \    |  |           |   (----`|  |_)  | |  |_)  |    |  | |   \|  | |  |  __
+|      /     |  |  |  |   \_    _/ /  /_\  \   |  |            \   \    |   ___/  |      /     |  | |  . `  | |  | |_ |
+|  |\  \----.|  `--'  |     |  |  /  _____  \  |  `----.   .----)   |   |  |      |  |\  \----.|  | |  |\   | |  |__| |
+| _| `._____| \______/      |__| /__/     \__\ |_______|   |_______/    | _|      | _| `._____||__| |__| \__|  \______|
+
+${application.app.title} versión ${application.app.version}
+${application.app.description}
+Version Spring Boot ${spring-boot.version}
+Version Java ${java.version}
+Desarrollado por:  ${application.app.developer}
